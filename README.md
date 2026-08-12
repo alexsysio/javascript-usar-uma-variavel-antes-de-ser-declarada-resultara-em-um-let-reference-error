@@ -7,7 +7,7 @@
 &nbsp;
 
 > Se quiser aprender mais sobre içamento, estude o capítulo <a href="https://www.w3schools.com/js/js_hoisting.asp">JavaScript Hoisting.</a>
-### Variáveis definidas com também são elevadas ao topo do bloco, mas não inicializado.let
+### Variáveis definidas com let também são elevadas ao topo do bloco, mas não inicializado.
 ### Significado: Usar uma variável antes de ser declarada resultará em um :letReferenceError
 
 &nbsp;
