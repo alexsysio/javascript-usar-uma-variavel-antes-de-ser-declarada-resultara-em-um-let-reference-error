@@ -19,10 +19,8 @@
 &nbsp;
 
 ### Exemplo
-### Isso é ok:
-
-### carName = "Volvo";
-### var carName;
+### carName = "Saab";
+### let carName = "Volvo";
 
 &nbsp;
 
