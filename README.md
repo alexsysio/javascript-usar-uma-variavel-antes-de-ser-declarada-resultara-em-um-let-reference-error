@@ -1,19 +1,8 @@
-### HTML JavaScript | JavaScript Usar uma variável antes de ser declarada resultará em um: let ReferenceError
-
-<a href="https://github.com/user-attachments/assets/f0b0f09a-0564-4d73-bd5f-30a44fd84560">
-  <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/f0b0f09a-0564-4d73-bd5f-30a44fd84560"/>
-</a>
-
-&nbsp;
-
-> Se quiser aprender mais sobre içamento, estude o capítulo <a href="https://www.w3schools.com/js/js_hoisting.asp">JavaScript Hoisting.</a>
 ### Variáveis definidas com let também são elevadas ao topo do bloco, mas não inicializado.
-### Significado: Usar uma variável antes de ser declarada resultará em um :letReferenceError
+### Significado: Usar uma variável antes de ser declarada resultará em um: let ReferenceError
 
-&nbsp;
-
-<a href="https://github.com/user-attachments/assets/e6b584be-ba7b-47a2-aed7-595589731591">
-  <img width="100%"  alt="usar-uma-variavel-antes-de-ser-declarada-resultara-em-um-let-reference-error" src="https://github.com/user-attachments/assets/e6b584be-ba7b-47a2-aed7-595589731591"/>
+<a href="https://github.com/user-attachments/assets/1dc24470-70ee-4150-b4cf-3b8f9d2f66fe">
+  <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/1dc24470-70ee-4150-b4cf-3b8f9d2f66fe"/>
 </a>
 
 &nbsp;
@@ -22,6 +11,9 @@
 ### carName = "Saab";
 ### let carName = "Volvo";
 
-&nbsp;
+<a href="https://github.com/user-attachments/assets/09f1eb99-fa07-41c6-871b-43d139a793bf">
+  <img width="100%"  alt="reference-error" src="https://github.com/user-attachments/assets/09f1eb99-fa07-41c6-871b-43d139a793bf"/>
+</a>
 
+&nbsp;
 
